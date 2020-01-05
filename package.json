@@ -1,0 +1,25 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "learn testing framework, practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangmx/testing.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "zhangmx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangmx/testing/issues"
+  },
+  "homepage": "https://github.com/zhangmx/testing#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
